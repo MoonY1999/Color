@@ -1,0 +1,4 @@
+repository "Color@tj_yannova@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
